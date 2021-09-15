@@ -1,0 +1,16 @@
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.exe
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.deps.json
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.runtimeconfig.json
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.runtimeconfig.dev.json
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.dll
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\ref\CRUD-Series.dll
+C:\Users\gusta\Digital Innovation One\CRUD-Series\bin\Debug\net5.0\CRUD-Series.pdb
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.csproj.AssemblyReference.cache
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.AssemblyInfoInputs.cache
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.AssemblyInfo.cs
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.dll
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\ref\CRUD-Series.dll
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.pdb
+C:\Users\gusta\Digital Innovation One\CRUD-Series\obj\Debug\net5.0\CRUD-Series.genruntimeconfig.cache
