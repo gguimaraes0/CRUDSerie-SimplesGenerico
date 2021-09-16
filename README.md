@@ -7,4 +7,4 @@ Crud de séries feito no bootcamp da Digital Innovation One
 - .NET Core SDK 5.0
 
 ## 👨‍💻  Autor
-- Gustavo Santos Guimarães 081180013 - EC6
+- Gustavo Santos Guimarães
